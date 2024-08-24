@@ -4,9 +4,7 @@
 ▶️ I'm interseted in mobile development and IOT.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmaged1722&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmaged1722" /> </p>
-
-<h1 align="left">connect with me</h1>
+<h2 align="left">connect with me</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-maged-0805681b5"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/a7medmaged17/"><img src="https://img.shields.io/badge/facebook-%230866FF?style=flat&logo=facebook&logoColor=white"/></a>
@@ -15,15 +13,54 @@
 </p>
 
 
+
 <h1 align="left">Languages and Tools:</h1>
-<p align="center">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Dart</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Flutter</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Firebase</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Python</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>C</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Java</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Arduino</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+   
+  </tbody>
+</table>
+
 
 
 
