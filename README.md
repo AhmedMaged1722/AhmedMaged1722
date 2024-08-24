@@ -65,8 +65,8 @@
 
 
 <h1 align="left">Most Used Languages</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmaged1722&show_icons=true&locale=en" alt="ahmedmaged1722" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmaged1722&show_icons=true&locale=en" alt="ahmedmaged1722" /></p>
 
 
 <h2 align="left">Github Stats:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmaged1722&show_icons=true&locale=en&layout=compact" alt="ahmedmaged1722" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmaged1722&show_icons=true&locale=en&layout=compact" alt="ahmedmaged1722" /></p>
