@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ahmed Mahmoud, a flutter developer</h1>
 🎓 I'm an undergraduate student in the Faculty Of Engineering, computers and control systems department.
 
-▶️ I'm interseted in mobile development and IOT.
+▶️ I'm interseted in mobile applications development and IOT.
 
 
 <h2 align="left">connect with me</h2>
