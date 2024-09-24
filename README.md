@@ -4,7 +4,7 @@
 ▶️ I'm interseted in mobile applications development and IOT.
 
 
-<h2 align="left">connect with me</h2>
+<h2 align="left">connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-maged-0805681b5"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/a7medmaged17/"><img src="https://img.shields.io/badge/facebook-%230866FF?style=flat&logo=facebook&logoColor=white"/></a>
