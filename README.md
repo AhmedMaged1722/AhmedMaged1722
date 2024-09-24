@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ahmed Mahmoud, a flutter developer</h1>
+<h2 align="center">I'm Ahmed Mahmoud, a flutter developer</h2>
 🎓 I'm an undergraduate student in the Faculty Of Engineering, computers and control systems department.
 
 ▶️ I'm interseted in mobile applications development and IOT.
@@ -14,7 +14,7 @@
 
 
 
-<h1 align="left">Languages and Tools:</h1>
+<h2 align="left">Languages and Tools:</h2>
 
 <table align="center">
   <tbody>
@@ -64,9 +64,9 @@
 
 
 
-<h1 align="left">Most Used Languages</h1>
+<h2 align="left">Github Stats:</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmaged1722&show_icons=true&locale=en" alt="ahmedmaged1722" /></p>
 
 
-<h2 align="left">Github Stats:</h2>
+<h2 align="left">Most Used Languages:</h2>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmaged1722&show_icons=true&locale=en&layout=compact" alt="ahmedmaged1722" /></p>
